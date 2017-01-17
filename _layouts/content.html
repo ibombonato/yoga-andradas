@@ -1,0 +1,34 @@
+---
+layout: page
+---
+
+    <!-- Slider Start -->
+<section id="global-header" style="background: url({{ page.image }})">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>{{ page.title }}</h1>
+                    <p>{{ page.subtitle }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Wrapper Start -->
+<article id="intro" style="border: 1px dotted #ddd;">
+    <div class="container">
+        <div class="row">
+        <div>
+            <div class="block">
+                <p>
+                    {{ content }}
+                </p>
+            </div>
+        </div><!-- .col-md-7 close -->
+        </div>
+    </div>
+</section>
+
+{% include call_to_contact.html %}
