@@ -805,3 +805,16 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+
+/*---------------------------*/
+/*--
+	Contents
+--*/
+.content {
+  margin: 50px 0px 100px 0px;
+}
+.content ul {
+  padding: 0;
+  margin-left: 25px;
+  list-style: disc;
+}
