@@ -9,7 +9,7 @@ layout: page
             <div class="col-md-12">
                 <div class="block">
                     <h1>{{ page.title }}</h1>
-                    <p>{{ page.subtitle }}</p>
+                    <h2>{{ page.subtitle }}</h2>
                 </div>
             </div>
         </div>
@@ -17,14 +17,12 @@ layout: page
 </section>
 
 <!-- Wrapper Start -->
-<article id="intro" style="border: 1px dotted #ddd;">
+<article id="intro" style="border: 1px dotted #ddd; padding: 0;">
     <div class="container">
         <div class="row">
         <div>
-            <div class="block">
-                <p>
-                    {{ content }}
-                </p>
+            <div class="block content">
+                {{ content }}
             </div>
         </div><!-- .col-md-7 close -->
         </div>
