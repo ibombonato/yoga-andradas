@@ -3,7 +3,7 @@ layout: page
 ---
 
     <!-- Slider Start -->
-<section id="global-header" style="background: url({{ page.image }})">
+<section id="global-header" style="background: url({% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %})">
     <div class="container">
         <div class="row">
             <div class="col-md-12">

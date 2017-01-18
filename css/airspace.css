@@ -780,7 +780,7 @@ footer {
   padding-bottom: 55px;
 }
 footer p {
-  font-size: 13px;
+  font-size: 9px;
   line-height: 25px;
   color: #919191;
 }
@@ -817,4 +817,9 @@ footer .footer-manu ul li a:hover {
   padding: 0;
   margin-left: 25px;
   list-style: disc;
+  color: #7B7B7B;
+}
+
+.content ul > li{
+    padding-top: 10px;
 }
