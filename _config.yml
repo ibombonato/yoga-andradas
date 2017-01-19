@@ -30,7 +30,7 @@ image: "../img/slider-bg.jpg"
 markdown: kramdown
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+# ga_tracking_id: "UA-90570639-1"
 
 # Category descriptions (for archive pages)
 descriptions:
