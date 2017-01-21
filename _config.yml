@@ -25,8 +25,8 @@ subtitle: "Doula, aleitamento materno, shantala e massagem materna"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "ibombonato.github.io/maos-de-amar" # the base hostname & protocol for your site
-baseurl: "/maos-de-amar"
+url: "www.maosdeamar.com.br" # the base hostname & protocol for your site
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 image: "../img/slider-bg.jpg"
