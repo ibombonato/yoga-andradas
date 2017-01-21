@@ -97,7 +97,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -114,7 +114,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: linear-gradient(to left, #8b86a3, #322e40);
-  opacity: 0.8;
+  opacity: 0.6;
 }
 #slider .block {
   color: #E3E3E4;
@@ -231,7 +231,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/placenta5.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -258,7 +258,6 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
