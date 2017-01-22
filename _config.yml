@@ -29,7 +29,7 @@ url: "www.maosdeamar.com.br" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
-image: "../img/slider-bg.jpg"
+image: "../img/bg2.jpg"
 
 # Build settings
 markdown: kramdown
