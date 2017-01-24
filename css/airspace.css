@@ -24,6 +24,7 @@ h4,
 h5,
 h6 {
   font-family: 'Roboto', sans-serif;
+  padding-top: 35px;
 }
 h2 {
   font-size: 30px;
@@ -83,7 +84,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #3C7795;
   padding: 10px 26px;
   font-size: 15px;
 }
@@ -143,11 +144,11 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .block h2 {
   padding-top: 35px;
   line-height: 27px;
-  margin: 0;
+  margin: 0 0 10px 0;
+  padding-bottom: 10px;
 }
 #intro .block p {
   color: #7B7B7B;
-  padding-top: 20px;
 }
 #intro .block img {
   padding-left: 40px;
