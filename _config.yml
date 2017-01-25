@@ -21,6 +21,7 @@ keep_files:
 # Site settings
 title: Mãos de amar
 subtitle: "Doula, aleitamento materno, shantala e massagem materna"
+description: Doula, amamentação, shantala, massagem em bebê e massagem pré e pós parto.
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.

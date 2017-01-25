@@ -1,8 +1,10 @@
 ---
 layout: content
+page-title: Doula, o que é, o que faz e vantagens de ter uma doula.
 title: Doula
 subtitle: Se a doula fosse um remédio seria antiético não receitar - John H. Kennell, MD
 permalink: /doula/
+description: Doula, o que é, o que faz e vantagens de ter uma doula.
 ---
 ## O que significa doula?
 
