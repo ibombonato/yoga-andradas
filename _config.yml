@@ -26,7 +26,7 @@ description: Doula, amamentação, shantala, massagem em bebê e massagem pré e
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "www.maosdeamar.com.br" # the base hostname & protocol for your site
+url: "https://www.maosdeamar.com.br" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
