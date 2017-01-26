@@ -26,16 +26,16 @@
 
     </body>
 
-    <!-- CSS -->
-    <link rel="preload" href="{{ site.baseurl }}/css/owl.carousel.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/bootstrap.min.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/font-awesome.min.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/airspace.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/style.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/ionicons.min.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/animate.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/responsive.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="{{ site.baseurl }}/css/syntax.css" as="style" onload="this.rel='stylesheet'">
+    <script>
+      loadCSS("{{ site.baseurl }}/css/bootstrap.min.css");
+      loadCSS("{{ site.baseurl }}/css/font-awesome.min.css");
+      loadCSS("{{ site.baseurl }}/css/airspace.css");
+      loadCSS("{{ site.baseurl }}/css/style.css");
+      loadCSS("{{ site.baseurl }}/css/ionicons.min.css");
+      loadCSS("{{ site.baseurl }}/css/animate.css");
+      loadCSS("{{ site.baseurl }}/css/responsive.css");
+      loadCSS("{{ site.baseurl }}/css/syntax.css");
+    </script>
 
     <noscript><link rel="stylesheet" href="{{ site.baseurl }}/css/owl.carousel.css"></noscript>
     <noscript><link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css"></noscript>
