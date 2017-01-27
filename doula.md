@@ -1,10 +1,10 @@
 ---
 layout: content
-page-title: Doula, o que é, o que faz e vantagens de ter uma doula.
+page-title: Doula gestação, parto e pós parto - Erika Perroni
+description: Apoio e acolhimento à mulher em busca de um parto natural, humanizado ou normal. Acompanhamento da forma escolhida pela mulher.
+permalink: /doula/
 title: Doula
 subtitle: Se a doula fosse um remédio seria antiético não receitar - John H. Kennell, MD
-permalink: /doula/
-description: Doula, o que é, o que faz e vantagens de ter uma doula.
 ---
 ## O que significa doula?
 

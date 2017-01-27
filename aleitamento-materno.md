@@ -1,14 +1,24 @@
 ---
 layout: content
+page-title: Consultoria em Amamentação - Atendimento Domiciliar ou Clínica
+description: Auxiliando as mulheres a superar as dificuldades iniciais com a amamentação, para promover, proteger e apoiar o aleitamento materno.
+permalink: /amamentacao-consultoria/
 title: Consultoria em Amamentação
 subtitle: Se existisse uma vacina com todos os benefícios do leite materno, os pais pagariam o que fosse para tê-la. - Dr. Carlos González
-permalink: /amamentacao-consultoria/
 ---
 ## Dificuldade em amamentar?
-É maravilhoso o ato de amamentar, ver nosso filho crescer, se fortalecer e se desenvolver apenas com o leite materno é uma grande satisfação. Mas nem sempre é fácil! Há muitos problemas que podem surgir em relação à amamentação.  
-A consultoria em aleitamento materno tem o objetivo de ajudar, acolher e apoiar a mulher, auxiliando na solução desses problemas.  
-Principais dificuldades em relação à amamentação:  
-  
+É maravilhoso o ato de amamentar, ver nosso filho crescer, se fortalecer e se desenvolver apenas com o leite materno é uma grande satisfação.Mas nem sempre é fácil! Há muitos problemas que podem surgir em relação à amamentação.
+
+A consultoria em aleitamento materno tem o objetivo de ajudar, acolher e apoiar a mulher, auxiliando na solução desses problemas e encorajar a livre demanda, para maior benefício das crianças.
+
+As recomendações da Organização Mundial de Saúde relativas à amamentação são as seguintes:
+
+- Aleitamento materno exclusivo até 6 meses de idade. Ou seja, até essa idade, o bebê deve tomar apenas leite materno e não deve dar–se nenhum outro alimento complementar ou bebida.
+- A partir dos 6 meses de idade todas as crianças devem receber alimentos complementares (comida, fruta) e manter o aleitamento materno.
+- As crianças devem continuar a ser amamentadas, pelo menos, até completarem os 2 anos de idade.
+
+Principais dificuldades em relação à amamentação:
+
 #### Fissuras / rachaduras nos mamilos
 Quando os mamilos ficam machucados, com feridas e muito doloridos
 
@@ -40,8 +50,10 @@ Diferentes posições para amamentar de forma segura e confortável para a mulhe
 Como armazenar o leite materno ordenhado.
 
 #### Realeitamento / relactação
-Quando é necessário reintroduzir o leite materno, retirada gradual de complemento (leite artificial ou fórmula) ou complementar a amamentação com o próprio leite materno.  
-Por não saber como resolver alguns desses problemas ou não receber apoio, muitas mulheres desistem de amamentar apesar de saber da grande importância que o leite materno tem para a saúde do seu filho.  
+Quando é necessário reintroduzir o leite materno, retirada gradual de complemento (leite artificial ou fórmula) ou complementar a amamentação com o próprio leite materno.
+
+Por não saber como resolver alguns desses problemas ou não receber apoio, muitas mulheres desistem de amamentar apesar de saber da grande importância que o leite materno tem para a saúde do seu filho.
+
 Principais benefícios do aleitamento materno:
 
 - Fortalece a imunidade
