@@ -1,7 +1,8 @@
 ---
 layout: content_post
+page-title: Erika Perroni - Doula, consultora de aleitamento, massagem shantala e massagem materna
 page-description: Erika Perroni - Doula, Amamentação, Massagem em gestantes e shantala em bebês
-title: Erika Perroni - Doula, consultora de aleitamento, massagem shantala e massagem materna
+title: Erika Perroni
 subtitle: Doula, consultora de aleitamento, massagem shantala e massagem materna
 permalink: /erika-perroni/
 ---
