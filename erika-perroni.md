@@ -10,7 +10,7 @@ permalink: /erika-perroni/
 Cel. (11) 97615-5448  
 Res. (11) 2376-7867  
 <div class="safe-email">
-    <a href="mailto:{{ site.encryptedemail }}" onclick="this.href=this.href.replace(/ /g,'')">{{ site.email }}</a>
+    e-mail: <a href="mailto:{{ site.encryptedemail }}" onclick="this.href=this.href.replace(/ /g,'')">{{ site.email }}</a>
 </div>
 
 ### Sobre
