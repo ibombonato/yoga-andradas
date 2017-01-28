@@ -7,10 +7,26 @@ subtitle: Doula, consultora de aleitamento, massagem shantala e massagem materna
 permalink: /erika-perroni/
 ---
 
-Cel. (11) 97615-5448  
-Res. (11) 2376-7867  
-<div class="safe-email">
-    e-mail: <a href="mailto:{{ site.encryptedemail }}" onclick="this.href=this.href.replace(/ /g,'')">{{ site.email }}</a>
+<div class="row block">
+  <div class="col-md-3 col-sm-12">
+    <div class="block">
+      <img style="width: initial;" src="/img/perfil2.jpg" alt="Erika Perroni">
+    </div>
+  </div>
+  <div class="col-md-9 col-sm-12">
+    <div class="block">
+      <p>&nbsp;</p>
+      <p>
+        <strong>Erika Perroni</strong><br>
+        São Caetano do Sul, São Paulo
+      </p>
+      <p>
+        Cel. <strong>(11) 97615-5448</strong><br>
+        Res. <strong>(11) 2376-7867</strong><br>
+        e-mail: <a href="mailto:{{ site.encryptedemail }}" onclick="this.href=this.href.replace(/ /g,'')"><strong>{{ site.email }}</strong></a>
+      </p>
+    </div>
+  </div>
 </div>
 
 ### Sobre
