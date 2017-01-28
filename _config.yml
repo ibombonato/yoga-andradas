@@ -11,7 +11,10 @@ exclude:
   - "README.md"
   - "LICENSE.md"
   - "*.gemspec"
-
+  - package.json
+  - node_modules
+  - gulpfile.js
+  
 keep_files:
   - "CNAME"
   - ".git"
