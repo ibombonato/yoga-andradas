@@ -20,13 +20,14 @@ layout: page
 <article id="intro" style="border: 1px dotted #ddd; padding: 0;">
     <div class="container">
         <div class="row">
-        <div>
-            <div class="block content">
-                {{ content }}
-            </div>
-        </div><!-- .col-md-7 close -->
+          <div>
+              <div class="block content">
+                  {{ content }}
+                  {% include atendimento.html %}
+              </div>
+          </div>
         </div>
     </div>
-</section>
+</article>
 
 {% include call_to_contact.html %}

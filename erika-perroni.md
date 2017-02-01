@@ -43,7 +43,7 @@ Massagem na Gestação, Parto e Pós Parto - Commadre e Abraço Materno
 - Curso de Massagem Shantala em bebês para pais, avós e cuidadores
 - Massagem na Gestação, durante o trabalho de Parto e no Pós Parto e Puerpério
 
-#### Cidades e Regiões de Atendimento:
+### Cidades e Regiões de Atendimento:
 - São Caetano do Sul
 - Santo André
 - São Paulo: Ipiranga, Saúde, Vila Mariana, Liberdade, Paraíso, Cambuci, Moóca, Vila Prudente, Vila Alpina, Vila Formosa, Vila Ema, Tatuapé, Carrão. Consultar sobre outras regiões.
