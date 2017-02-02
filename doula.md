@@ -16,8 +16,8 @@ Esse suporte pode ser dado antes, durante e depois do parto.
 
 O trabalho da doula começa ainda na gestação, oferece suporte informativo explicando os termos médicos e os procedimentos hospitalares. Antes do parto orienta o casal sobre o que esperar do parto e pós parto. Explica os procedimentos comuns e ajuda a mulher a se preparar física e emocionalmente para o parto, das mais variadas formas.  
 No trabalho de parto, o vínculo e confiança que foram cultivados durante o acompanhamento na gestação vão dar segurança para que a mulher possa se entregar ao momento.  
-Utiliza de formas não farmacológicas para o alívio da dor e para o conforto da parturiente: [massagens](/massagem-gestante), aromaterapia, sugestão de movimentos e posições que possam ser mais confortáveis, banhos, uso de bola de pilates, técnicas de respiração, rebozo, etc. Facilita a comunicação entre a equipe médica e a parturiente e família. Ajuda o companheiro a se sentir incluído, participativo e confiante, aumentando ainda mais a segurança da mulher.  
-No pós parto imediato a doula ajuda a mulher com os primeiros cuidados em relação ao bebê, [amamentação](/amamentacao-consultoria) e mudanças que ocorrerão na rotina.
+Utiliza de formas não farmacológicas para o alívio da dor e para o conforto da parturiente: [massagens](/massagem-gestante/), aromaterapia, sugestão de movimentos e posições que possam ser mais confortáveis, banhos, uso de bola de pilates, técnicas de respiração, rebozo, etc. Facilita a comunicação entre a equipe médica e a parturiente e família. Ajuda o companheiro a se sentir incluído, participativo e confiante, aumentando ainda mais a segurança da mulher.  
+No pós parto imediato a doula ajuda a mulher com os primeiros cuidados em relação ao bebê, [amamentação](/amamentacao-consultoria/) e mudanças que ocorrerão na rotina.
 
 ## O que a doula não faz?
 
