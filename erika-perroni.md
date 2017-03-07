@@ -2,7 +2,7 @@
 layout: content_post
 page-title: Erika Perroni - Doula, consultora de aleitamento, massagem shantala e massagem materna
 page-description: Erika Perroni - Doula, Amamentação, Massagem em gestantes e shantala em bebês
-title: Erika Perroni
+title: Doula: Erika Perroni
 subtitle: Doula, consultora de aleitamento, massagem shantala e massagem materna
 permalink: /erika-perroni/
 ---
@@ -29,26 +29,29 @@ permalink: /erika-perroni/
   </div>
 </div>
 
-### Sobre
-Doula residente em São Caetano do Sul
+### Sobre a doula
+Doula residente em São Caetano do Sul.
 
-Doula formada pelo GAMA - Grupo de Apoio à Maternidade Ativa
-Consultora em Aleitamento Materno - GAMA Grupo de Apoio à Maternidade Ativa
-Instrutora de Shantala - Commadre e Abraço Materno
-Massagem na Gestação, Parto e Pós Parto - Commadre e Abraço Materno
+Doula formada pelo GAMA - Grupo de Apoio à Maternidade Ativa.
+
+Consultora em Aleitamento Materno - GAMA Grupo de Apoio à Maternidade Ativa.
+
+Instrutora de Shantala - Commadre e Abraço Materno.
+
+Massagem na Gestação, Parto e Pós Parto - Commadre e Abraço Materno.
 
 ### Serviços Oferecidos:
-- Doula de Pré Parto/Gestação, Parto e Pós Parto Imediato.
-- Aleitamento Materno (Auxilio na amamentação)
-- Curso de Massagem Shantala em bebês para pais, avós e cuidadores
-- Massagem na Gestação, durante o trabalho de Parto e no Pós Parto e Puerpério
+- Doula de pré-parto/gestação, parto e pós-parto imediato.
+- Aleitamento materno (Auxilio na amamentação).
+- Curso de Massagem Shantala em bebês para pais, avós e cuidadores.
+- Massagem na gestação, durante o trabalho de parto e no pós-parto e puerpério.
 
 ### Cidades e Regiões de Atendimento:
-- São Caetano do Sul
-- Santo André
+- São Caetano do Sul.
+- Santo André.
 - São Paulo: Ipiranga, Saúde, Vila Mariana, Liberdade, Paraíso, Cambuci, Moóca, Vila Prudente, Vila Alpina, Vila Formosa, Vila Ema, Tatuapé, Carrão. Consultar sobre outras regiões.
 
-### Atendimento à Domicílio ou em Consultório:
-- Parto Hospitalar
-- Parto Domiciliar
-- Casa de Parto.
+### Atendimento à domicílio ou em consultório:
+- Parto hospitalar.
+- Parto domiciliar.
+- Casa de parto.
