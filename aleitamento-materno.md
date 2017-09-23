@@ -5,6 +5,7 @@ description: Auxilia as mulheres a superar as dificuldades iniciais com a amamen
 permalink: /amamentacao-consultoria/
 title: Consultoria em Amamentação
 subtitle: Se existisse uma vacina com todos os benefícios do leite materno, os pais pagariam o que fosse para tê-la. - Dr. Carlos González
+servico: Consultoria em Amamentação
 ---
 ## Dificuldade em amamentar?
 

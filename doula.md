@@ -5,6 +5,7 @@ description: Apoio e acolhimento à mulher em busca de um parto natural, humaniz
 permalink: /doula/
 title: Doula
 subtitle: Se a doula fosse um remédio seria antiético não receitar - John H. Kennell, MD
+servico: Doula
 ---
 ## O que significa doula?
 

@@ -5,6 +5,7 @@ description: Massagem sem dor, leve e relaxante, pode ser feita durante toda a g
 title: Massagem Materna
 subtitle: A massagem é uma ferramenta terapêutica com jeito de mimo. O toque é interpretado pelo cérebro como sinal de felicidade emocional
 permalink: /massagem-gestante/
+servico: Massagem materna
 ---
 
 Massagem sem dor, leve e relaxante, pode ser feita durante toda a gestação e tem diversos benefícios, inclusive durante o trabalho de parto e no pós-parto:
