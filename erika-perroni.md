@@ -19,11 +19,12 @@ servico: Doula
       <p>&nbsp;</p>
       <p>
         <strong>Erika Perroni</strong><br>
-        São Caetano do Sul, São Paulo
+        Andradas, MG<br>
+        São João da Boa Vista, SP
       </p>
       <p>
+        Cel. <strong>(35) 99715-5448</strong><br>
         Cel. <strong>(11) 97615-5448</strong><br>
-        Res. <strong>(11) 2376-7867</strong><br>
         e-mail: <a href="mailto:{{ site.encryptedemail }}" onclick="this.href=this.href.replace(/ /g,'')"><strong>{{ site.email }}</strong></a>
       </p>
     </div>
@@ -31,7 +32,7 @@ servico: Doula
 </div>
 
 ### Sobre a doula
-Doula residente em São Caetano do Sul.
+Doula residente em Andradas, atendendo em Andradas, São João da Boa Vista, Espirito Santo do Pinhal e região.
 
 Doula formada pelo GAMA - Grupo de Apoio à Maternidade Ativa.
 
