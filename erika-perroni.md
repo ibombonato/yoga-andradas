@@ -42,10 +42,10 @@ Instrutora de Shantala - Commadre e Abraço Materno.
 Massagem na Gestação, Parto e Pós Parto - Commadre e Abraço Materno.
 
 ### Serviços Oferecidos:
+- Yoga
 - Doula de pré-parto/gestação, parto e pós-parto imediato.
-- Aleitamento materno (Auxilio na amamentação).
+- Aleitamento materno (Problemas na amamentação).
 - Curso de Massagem Shantala em bebês para pais, avós e cuidadores.
-- Massagem na gestação, durante o trabalho de parto e no pós-parto e puerpério.
 
 ### Cidades e Regiões de Atendimento:
 - Andradas.
