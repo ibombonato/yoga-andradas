@@ -16,16 +16,16 @@ keep_files:
 
 
 # Site settings
-title: Mãos de amar - Doula, amamentação, shantala, massagem em bebê e massagem pré e pós parto.
-subtitle: "Doula, aleitamento materno, shantala e massagem materna"
-description: Doula, amamentação, shantala, massagem em bebê e massagem pré e pós parto.
+title: Padma Chandra - Yoga, Doula, amamentação, shantala, massagem em bebê em Andradas e região.
+subtitle: "Yoga, Doula, aleitamento materno, shantala e massagem materna"
+description: Yoga, Doula, amamentação, shantala, massagem em bebê em Andradas e região.
 encryptedemail: "e r i k a p e r r o n i @ g m a i l . c o m"
 email: "erikaperroni@gmail.com"
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "https://www.maosdeamar.com.br" # the base hostname & protocol for your site
+url: "https://www.yogaandradas.com.br" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
