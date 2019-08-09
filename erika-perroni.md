@@ -24,7 +24,6 @@ servico: Doula
       </p>
       <p>
         Cel. <strong>(35) 99715-5448</strong><br>
-        Cel. <strong>(11) 97615-5448</strong><br>
         e-mail: <a href="mailto:{{ site.encryptedemail }}" onclick="this.href=this.href.replace(/ /g,'')"><strong>{{ site.email }}</strong></a>
       </p>
     </div>
@@ -32,7 +31,7 @@ servico: Doula
 </div>
 
 ### Sobre a doula
-Doula residente em Andradas, atendendo em Andradas, São João da Boa Vista, Espirito Santo do Pinhal e região.
+Doula residente em Andradas, atendendo em Andradas, Poços de Caldas, São João da Boa Vista, Espirito Santo do Pinhal e região.
 
 Doula formada pelo GAMA - Grupo de Apoio à Maternidade Ativa.
 
@@ -49,9 +48,11 @@ Massagem na Gestação, Parto e Pós Parto - Commadre e Abraço Materno.
 - Massagem na gestação, durante o trabalho de parto e no pós-parto e puerpério.
 
 ### Cidades e Regiões de Atendimento:
-- São Caetano do Sul.
-- Santo André.
-- São Paulo: Ipiranga, Saúde, Vila Mariana, Liberdade, Paraíso, Cambuci, Moóca, Vila Prudente, Vila Alpina, Vila Formosa, Vila Ema, Tatuapé, Carrão. Consultar sobre outras regiões.
+- Andradas.
+- Poços de Caldas
+- São João da Boa Vista.
+- Espirito Santo do Pinhal
+- Sul de Minas e Leste Paulista.
 
 ### Atendimento à domicílio ou em consultório:
 - Parto hospitalar.
